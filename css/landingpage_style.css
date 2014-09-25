@@ -1,18 +1,18 @@
-#header {
+.header {
     text-align: center;
     margin-top:30px;
 }
 
-.face_img {
+#face_img {
 	width: 100px;
 }
 
-.fullname {
+#fullname {
  	text-transform: uppercase;
     margin-top: 30px;
 }
 
-.supporting_text{
+#supporting_text{
 	width:350px;
     margin:auto;
     margin-bottom: 20px;
