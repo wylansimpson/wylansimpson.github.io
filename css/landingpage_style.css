@@ -9,7 +9,7 @@
 }
  
 #header img.myface {
-    width: 100px;
+    width: 150px;
 }
 
 #fullname {
@@ -19,7 +19,7 @@
 }
 
 #supporting_text{
-	text-align: center;
+	width:600px;
     margin:auto;
     margin-bottom: 20px;
     font-family: georgia, serif;
