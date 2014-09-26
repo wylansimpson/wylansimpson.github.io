@@ -3,7 +3,7 @@
     margin-top:30px;
 }
 
-#face_img {
+#face {
 	width: 100px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #supporting_text{
-	width:350px;
+	text-align: center;
     margin:auto;
     margin-bottom: 20px;
     font-family: georgia, serif;
